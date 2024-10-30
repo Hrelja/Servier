@@ -22,8 +22,7 @@ Assurez-vous d'avoir installé les bibliothèques Python suivantes :
 
 ```bash
 python -m venv .
-pip install pandas
-pip install apache-airflow
+pip install -r /path/to/requirements.txt
 ```
 
 ## Docker Compose pour lancer airflow en local
