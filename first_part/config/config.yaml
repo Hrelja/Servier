@@ -1,0 +1,5 @@
+# Chemins des fichiers de données
+drugs_path: "../data/drugs.csv"
+pubmed_csv_path: "../data/pubmed.csv"
+pubmed_json_path: "../data/pubmed.json"
+clinical_trials_path: "../data/clinical_trials.csv"
